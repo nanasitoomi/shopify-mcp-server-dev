@@ -1,5 +1,5 @@
 {
-  "name": "shopify-mcp-server",
+  "name": "shopify-mcp-server-dev",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
